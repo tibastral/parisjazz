@@ -1,3 +1,3 @@
 # parisjazz
 
-[resources](/resources)
+[resources](/resources.md)
