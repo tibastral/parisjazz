@@ -13,8 +13,7 @@ Here you can find helpful resources for participating and organizing jazz jams. 
 [rules of the meetup](/rules.md)
 
 ## References
-* Paris Jazz Jam: http://www.meetup.com/fr/parisjazz/
-* Original rules post (fr): http://www.meetup.com/fr/parisjazz/messages/boards/thread/49210014
-* Original songs proposals post: http://www.meetup.com/fr/parisjazz/messages/boards/thread/49210022
-
+* Official meetup page [Paris Jazz Jam](http://www.meetup.com/fr/parisjazz/)
+* Original [jam rules](http://www.meetup.com/fr/parisjazz/messages/boards/thread/49210014) (fr) post
+* Original [songs proposals](http://www.meetup.com/fr/parisjazz/messages/boards/thread/49210022) post
 
