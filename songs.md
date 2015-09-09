@@ -1,6 +1,6 @@
 # This is a list of songs we like to play at the jam
 
-* A child is born[Bill Evans](https://www.youtube.com/watch?v=F1jTqWLrzjI)
+* A child is born ([Bill Evans](https://www.youtube.com/watch?v=F1jTqWLrzjI))
 * All the things you are
 * Blue Bossa
 * [Blue Monk](https://www.youtube.com/watch?v=FRUWtrgTpcs)
