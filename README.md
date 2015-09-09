@@ -12,6 +12,8 @@ Here you can find helpful resources for participating and organizing jazz jams. 
 
 [rules of the meetup](/rules.md)
 
+[how to become better](/howto.md)
+
 ## References
 * Official meetup page [Paris Jazz Jam](http://www.meetup.com/fr/parisjazz/)
 * Original [jam rules](http://www.meetup.com/fr/parisjazz/messages/boards/thread/49210014) (fr) post
