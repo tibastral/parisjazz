@@ -13,5 +13,5 @@
 * Perdido
 * Smile
 * Song for my father
-* Sunny
+* Sunny ([Luc & Lagraine](https://www.youtube.com/watch?v=HN0EAfpbXTs))
 * Watermelon man ([Herbie](https://www.youtube.com/watch?v=p4ASTMFN-h4))
