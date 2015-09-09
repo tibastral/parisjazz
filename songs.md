@@ -3,7 +3,7 @@
 * A child is born
 * All the things you are
 * Blue Bossa
-* Blue Monk
+* [Blue Monk](https://www.youtube.com/watch?v=FRUWtrgTpcs)
 * Cantaloupe
 * Caravan
 * Estate
